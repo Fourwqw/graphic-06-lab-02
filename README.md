@@ -3,5 +3,5 @@
 
 ## Глава 1
 * [Тест](https://repl.it/@FourwFourw/LearningCpp-01?v=1) 
-## Глава 1
-* [Тест](https://repl.it/@FourwFourw/LearningCpp-01?v=1) 
+## Глава 2
+* [Тест](/lr-02-chap-02/Кузнецов%20Антон%2C%20ИВТ3%201%20гр%2C%20лр2.2.pdf) 
